@@ -21,9 +21,13 @@
   <ItemGroup>
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\Block.cpp" />
+    <ClCompile Include="src\PlayField.cpp" />
+    <ClCompile Include="src\Tetromino.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Block.h" />
+    <ClInclude Include="src\PlayField.h" />
+    <ClInclude Include="src\Tetromino.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
